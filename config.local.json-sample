@@ -1,0 +1,7 @@
+{
+	"aliases": [
+		{
+			"name-of-package-to-alias": "local-path-to-alias-to"
+		}
+	]
+}
